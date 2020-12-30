@@ -85,11 +85,12 @@ class ViewController: UIViewController {
             num.text = "第 \(index + 1) 問"
         }
         
-        /*else {
+        /*
+        else {
             question.text = "終了"
             answer.text = ""
+            num.text = ""
         }*/
-
     }
     
 }
